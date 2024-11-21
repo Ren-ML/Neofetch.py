@@ -1,0 +1,1 @@
+This is a basic Neofetch clone made in Python :). This is my first program in Python! 
